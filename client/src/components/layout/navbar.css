@@ -1,0 +1,58 @@
+.navbar{
+    background-color: #01036f;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.left{
+    color: white;
+    padding-left: 20px;
+}
+
+.icon{
+    color: white;
+    text-decoration-color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+
+a.left
+{
+    position: relative;
+    
+}
+
+a.left:before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #1acc8d;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+a.left:hover:before {
+    visibility: visible;
+    width: 100%;
+  }
+
+.navbar-toggler-icon{
+    color: white;
+}
+
+.fa-bars{
+    color: white;
+    font-size:28px;
+}
