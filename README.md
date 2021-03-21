@@ -6,7 +6,7 @@ Get Boarding pass and updates,Follow and track your flights,Get your baggage jou
 
 ## Inspiration
 
-- By personal experience in India,waiting in Queues has been a very big problem and having a complete digital experience was always a expectation
+- Our personal experience in India,waiting in Queues has been a very big problem and having a complete digital experience was always a expectation
 - For connecting and interchanging flight,Baggage has always been an issue.Keep tracking of the Baggage status would be amazing.
 - Many Indians (Generally above the age of 45) have been facing issues due to difference in Languages and no support in their native language.
 
